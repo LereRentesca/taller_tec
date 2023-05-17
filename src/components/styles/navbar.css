@@ -1,0 +1,11 @@
+.bg-navbar{
+    background-color: black;
+}
+
+.color-font{
+    color: white;
+}
+
+.color-font:hover{
+    color: lightgray
+}
